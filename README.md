@@ -1,3 +1,5 @@
+[README.md](https://github.com/user-attachments/files/34052383/README.md)
+
 # Agente de noticias XAUUSD para Telegram
 
 Publica en tu grupo de Telegram dos resúmenes al día (lunes a viernes) sobre el oro:
